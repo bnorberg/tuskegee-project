@@ -1,0 +1,576 @@
+name,first_class_original,first_class,class_certain,first_year_enrolled,city_original,city,country,region,continent,gender,gender_certain,coordinates,latitude,longitude
+"Barnwell, Nellie",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Muscogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Abegg, Carlos ",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,Port de Paix,Port de Paix,Haiti,West Indies,North America,m,TRUE,"19.9348887, -72.8308692",19.9348887,-72.8308692
+"Abreu, Ramon Valdes ",B Preparatory Class,B Preparatory Class,TRUE,1902-1904,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Acnong, Tito Priscillian",Junior Class,Junior Class,TRUE,1905-1906,,,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.691803, -61.222503",10.691803,-61.222503
+"Adams, Joseph",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Aitken, Ainsworth B.",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Cairo,Cairo,Costa Rica,Central America,North America,m,TRUE,"10.123244, -83.53465299999999",10.123244,-83.53465299999999
+"Ajayi, Lattevi Hoffman",Post-Graduates,Post-Graduates,TRUE,1912-1913,Lagos,Lagos,Nigeria,West Africa,Africa,m,TRUE,"6.5243793, 3.3792057",6.5243793,3.3792057
+"Alba, Amanda",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Alba, Angel",C Preparatory Class,C Preparatory Class,TRUE,1918-1919,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Albarran, Miguel",Special Students,Special Students,TRUE,1904-1905,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Alcova, Emilio",B Middle Class,B Middle Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Alexander, Margaret",C Preparatory Class,C Preparatory Class,TRUE,,Sharrmoran,Shamaranne Park,Canada,Ontario,North America,f,TRUE,"43.1989554, -80.3262937",43.1989554,-80.3262937
+"Allard, Victor",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,Sangre Grande,Sangre Grande,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.5852939, -61.1315813",10.5852939,-61.1315813
+"Alleyne, Cameron Chesterfield",B Middle Class,B Middle Class,TRUE,1903-1904,Bridgetown,Bridgetown,Barbados,West Indies,North America,m,TRUE,"13.0968511, -59.61448189999999",13.0968511,-59.61448189999999
+"Altiery, Marie Carmen",B Middle Class,B Middle Class,TRUE,1914-1915,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,f,TRUE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Altiery, Victoria",Junior Class,Junior Class,TRUE,1905-1906,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,f,TRUE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Alvarez, Juan L",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Monte Cristi,Monte Cristi,Dominican Republic,West Indies,North America,m,TRUE,"18.4787087, -69.8937554",18.4787087,-69.8937554
+"Alves, Orlando",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Rio de Janiero,Rio de Janiero,Brazil,Brazilian Highlands,South America,m,TRUE,"-22.9068467, -43.1728965",-22.9068467,-43.1728965
+"Amakyi, John Ocraw Hanson",Junior Class,Junior Class,TRUE,1912-1913,"Shanti Road, Salt Pond",Salt Pond,Ghana,West Africa,Africa,m,TRUE,"5.2023106, -1.0514312",5.2023106,-1.0514312
+"Andino, Ernesto ",Post-Graduates,Post-Graduates,TRUE,1911-1912,,,Puerto Rico,West Indies,North America,m,TRUE,"18.220833, -66.590149",18.220833,-66.590149
+"Anthony, Edward Andreas",Junior Class,Junior Class,TRUE,1904-1905,Lome,Lome,Togo,West Africa,Africa,m,TRUE,"6.1724969, 1.2313618",6.1724969,1.2313618
+"Anthony, Francis Alpha ",Post-Graduates,Post-Graduates,TRUE,1916-1917,London,London,United Kingdom,Great Britain,Europe,m,FALSE,"51.5073509, -0.1277583",51.5073509,-0.1277583
+"Aponte, Virginia Atiland",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Salinos/ Ponce,Salinas,Puerto Rico,West Indies,North America,f,TRUE,"18.0022251, -66.2605176",18.0022251,-66.2605176
+"Arbalaez, Joaquin",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Laqua La Grande,Sagua La Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Armstrong, Etheline",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,Kingston,Kingston,Jamaica,West Indies,North America,f,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Arrocha, Waldo",Junior Class,Junior Class,TRUE,1916-1917,Aguadulce,Aguadulce,Panama,Central America,North America,m,TRUE,"8.230175599999999, -80.5549561",8.230175599999999,-80.5549561
+"Arroyo, Maria Antonia (Auorya, Antonio?)",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,f,FALSE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Arthur, Joseph",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,,,Barbados,West Indies,North America,m,TRUE,"13.193887, -59.543198",13.193887,-59.543198
+"Astwood, Alden",B Middle Class,B Middle Class,TRUE,1919-1920,Grand Turk,Grand Turk,Turks and Caicos Islands,West Indies,North America,m,TRUE,"21.4674584, -71.13891009999999",21.4674584,-71.13891009999999
+"Astwood, Donald Oliver",Junior Class,Junior Class,TRUE,1916-1917,Grand Turk,Grand Turk,Turks and Caicos Islands,West Indies,North America,m,TRUE,"21.4674584, -71.13891009999999",21.4674584,-71.13891009999999
+"Astwood, Helen ",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,,,Turks and Caicos Islands,West Indies,North America,f,TRUE,"21.694025, -71.797928",21.694025,-71.797928
+"Awuku, Samuel",A Middle Class,A Middle Class,TRUE,1913-1914,Wesleyan Mission,Accra,Ghana,West Africa,Africa,m,TRUE,"5.6037168, -0.1869644",5.6037168,-0.1869644
+"Baez, Cesar Calixto",Senior Class,Senior Class,TRUE,1911-1912,Sabana Grande,Sabana Grande,Puerto Rico,West Indies,North America,m,TRUE,"18.0777392, -66.9604549",18.0777392,-66.9604549
+"Bailey, Morris Gordon",B Middle Class,B Middle Class,TRUE,1913-1914,St. Ann's Bay,St. Ann's Bay,Jamaica,West Indies,North America,m,TRUE,"18.4329473, -77.19739969999999",18.4329473,-77.19739969999999
+"Baptiste, Antoine Fanelia ",Junior Class,Junior Class,TRUE,1911-1912,Cape Haitien,Cape Haitien,Haiti,West Indies,North America,m,FALSE,"19.7370362, -72.20676809999999",19.7370362,-72.20676809999999
+"Barcener, Manuel",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Barea, Salvador",B Middle Class,B Middle Class,TRUE,1905-1906,San German,San German,Puerto Rico,West Indies,North America,m,TRUE,"18.0807082, -67.0411096",18.0807082,-67.0411096
+"Barnes, Ethel Dora",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,"Watson Hill, St. Elizabeth",St. Elizabeth,Jamaica,West Indies,North America,f,TRUE,"18.0788461, -77.69941969999999",18.0788461,-77.69941969999999
+"Barnwell, George",A Preparatory Class,A Preparatory Class,TRUE,1904-1905,Muskogee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Barrios, Belen Cecilia",A Middle Class,A Middle Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Barrios, Francisca (Isabel or Irene)",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Barrios, Marie Louise",Senior Class,Senior Class,TRUE,1911-1912,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Barrow, David Adolphus ",B Middle Class,B Middle Class,TRUE,1907-1908,"Georgetown, Demerara",Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Bass, Ruth",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,St. Elizabeth,St. Elizabeth,Jamaica,West Indies,North America,f,TRUE,"18.0788461, -77.69941969999999",18.0788461,-77.69941969999999
+"Beaton, John Oliver",Junior Class,Junior Class,TRUE,1905-1906,,,Guyana,West Indies,South America,m,TRUE,"4.860416, -58.93018",4.860416,-58.93018
+"Becerra, Jose Rafael",Junior Class,Junior Class,TRUE,1906-1907,Barranquitas,Barranquitas,Puerto Rico,West Indies,North America,m,TRUE,"18.1866242, -66.3062802",18.1866242,-66.3062802
+"Belie, Kilimangia Santecum",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,,Zanzibar,Tanzania,East Africa,Africa,n/a,TRUE,"-6.135729500000001, 39.3621196",-6.135729500000001,39.3621196
+"Bell, Vietlan",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,"Shelburn, Nova Scotia",Shelburn,Canada,Nova Scotia,North America,n/a,TRUE,"43.7643579, -65.3240227",43.7643579,-65.3240227
+"Benjamin, George Jr.",Special C Preparatory Class,Special C Preparatory Class,TRUE,1912-1913,Sweet Valley,,Antigua and Barbuda,West Indies,North America,m,TRUE,"17.060816, -61.796428",17.060816,-61.796428
+"Bermudez, Ricardo        ",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Limon,Limon,Costa Rica,Central America,North America,m,TRUE,"9.9913106, -83.04150779999999",9.9913106,-83.04150779999999
+"Bernard, Halls Arnold",Junior Class,Junior Class,TRUE,1911-1912,"Georgetown, Grand Cayman",Georgetown,Cayman Islands,West Indies,North America,m,TRUE,"19.2869323, -81.3674389",19.2869323,-81.3674389
+"Bernier, Felix Caleb",B Middle Class,B Middle Class,TRUE,1915-1916,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Bertrand, Adolph",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Best, David Benjamin",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Spanish Town,Spanish Town,Jamaica,West Indies,North America,m,TRUE,"18.0193171, -76.9758274",18.0193171,-76.9758274
+"Betancourt, Rolando/Rolanda",Junior Class,Junior Class,TRUE,1919-1920,Havana,Havana,Cuba,West Indies,North America,n/a,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Bevans, Victor Alexander",C Preparatory Class,C Preparatory Class,TRUE,1914-1915,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Bibolina, Nicolas",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Capital,Capital,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Bierman, Gustaaf Christian",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Paramaribo,Paramaribo,Surinam,Caribbean South America,South America,m,TRUE,"5.8520355, -55.2038278",5.8520355,-55.2038278
+Bishop. James Sigino,Special Students,Special Students,TRUE,1911-1912,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Bizet, Enrique",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Blackwell, Charles",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Vinita/ Vinik,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Blake, Hezekiah",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,"Kingston
+","Kingston
+",Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Blayo, Alberto ",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Blekie, Edward",B Preparatory Class,B Preparatory Class,TRUE,1903-1904,"Bankies Vial, Cape Colony",Cape of Good Hope,South Africa,Southern Africa,Africa,m,TRUE,"-34.3568425, 18.4739882",-34.3568425,18.4739882
+"Boco, Absolom",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Bodden, Eric",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Roatan,Roatan,Honduras,Central America,North America,m,TRUE,"16.3297608, -86.5299673",16.3297608,-86.5299673
+"Bonhomme, Robert",Junior Class,Junior Class,TRUE,1911-1912,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Bonterre, Fitzroy Henry",A Preparatory Class,A Preparatory Class,TRUE,1904-1905,,,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.691803, -61.222503",10.691803,-61.222503
+"Boones, Francisco",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Bowen, Lucius Simeon Augustus",A Middle Class,A Middle Class,TRUE,1915-1916,Darleston,Darleston,Jamaica,West Indies,North America,m,TRUE,"18.2349018, -77.9752926",18.2349018,-77.9752926
+"Bowie, Hamlin Stickburn",B Middle Class,B Middle Class,TRUE,1905-1906,,St. Andrews ,Grenada,Central America,North America,m,TRUE,"12.1230598, -61.64211719999999",12.1230598,-61.64211719999999
+"Brandie, Antonio",A Middle Class,A Middle Class,TRUE,1913-1914,Cayey,Cayey,Puerto Rico,West Indies,North America,m,TRUE,"18.1119051, -66.166",18.1119051,-66.166
+"Brooks, Luther",B Middle Class,B Middle Class,TRUE,1915-1916,Westmoreland/ Savalamar,Westmoreland/ Savalamar,Jamaica,West Indies,North America,m,TRUE,"18.2291677, -78.1393397",18.2291677,-78.1393397
+"Brown, Jonathan Gabriel",Junior Class,Junior Class,TRUE,1904-1905,Bocas del Toro,Bocas del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Brown, Osmond Henry ",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,Manchioneal,Manchioneal,Jamaica,West Indies,North America,m,TRUE,"18.0443274, -76.27542749999999",18.0443274,-76.27542749999999
+"Brownbill, Alfred William",Junior Class,Junior Class,TRUE,1907-1908,"Zonnebloen, Cape Town","Zonnebloen, Cape Town",South Africa,Southern Africa,Africa,m,TRUE,"-33.931634, 18.4320557",-33.931634,18.4320557
+"Bryan, Clarence A",B Middle Class,B Middle Class,TRUE,1905-1906,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Burgher, Stanley Hancock ",A Middle Class,A Middle Class,TRUE,1917-1918,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Burnett, Austus",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,Bridgetown,Bridgetown,Barbados,West Indies,North America,m,TRUE,"13.0968511, -59.61448189999999",13.0968511,-59.61448189999999
+"Caballero, Conrado Mendez",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Cabello, Alejandrina",A Middle Class,A Middle Class,TRUE,1913-1914,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Cairo, Louis ",B Preparatory Class,B Preparatory Class,TRUE,1915-1916,Sierra Morena,Sierra Morena,Cuba,West Indies,North America,m,TRUE,"22.9517945, -80.5132818",22.9517945,-80.5132818
+"Calderon, Juana Maria",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Callaba, Marcelino ",C Preparatory Class,C Preparatory Class,TRUE,1915-1916,Calle de Alfredo,Calle de Alfredo,Cuba,West Indies,North America,m,TRUE,"23.048069, -82.3642497",23.048069,-82.3642497
+"Camacho, Rafael",A Middle Class,A Middle Class,TRUE,1913-1914,Humacao,Humacao,Puerto Rico,West Indies,North America,m,TRUE,"18.1551337, -65.8203943",18.1551337,-65.8203943
+"Campbell, Ethelred Erasmus",A Middle Class,A Middle Class,TRUE,1911-1912,St. Elizabeth/ Giddy Hall,St. Elizabeth Parish,Jamaica,West Indies,North America,m,TRUE,"18.0788461, -77.69941969999999",18.0788461,-77.69941969999999
+"Cannard, Paul Laurence",Junior Class,Junior Class,TRUE,1904-1905,Muskogee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Canossa, Jose M ",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Cantress, Nicolas",A Middle Class,A Middle Class,TRUE,1905-1906,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Capote, Emilio Echavarria",B Preparatory Class,B Preparatory Class,TRUE,1912-1913,Pinar Del Rio,Pinar Del Rio,Cuba,West Indies,North America,m,TRUE,"22.4076256, -83.8473015",22.4076256,-83.8473015
+"Carbo, Pedro ",Post-Graduates,Post-Graduates,TRUE,1912-1913,Carabana,Carabana,Cuba,West Indies,North America,m,TRUE,"21.521757, -77.781167",21.521757,-77.781167
+"Cardona, Manuel Blanche",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Santiago/ Guantanamo,Guantanamo,Cuba,West Indies,North America,m,TRUE,"20.1400094, -75.2128996",20.1400094,-75.2128996
+"Cargill, Hilda",Special C Preparatory Class,Special C Preparatory Class,TRUE,1916-1917,Bocas Del Toro,Bocas Del Toro,Panama,Central America,North America,f,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Carilla, Arcado or Arcadia Diora",B Middle Class,B Middle Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,n/a,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Carreras, Leopold ",B Middle Class,B Middle Class,TRUE,1915-1916,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Carter, Alberto Christopher",B Middle Class,B Middle Class,TRUE,1913-1914,St. Thomas,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Casado, Joaquin",A Middle Class,A Middle Class,TRUE,1913-1914,Santurce,Santurce,Puerto Rico,West Indies,North America,m,TRUE,"18.4481441, -66.0641969",18.4481441,-66.0641969
+"Casals, Remigio",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Casamangor, Manuel Moralo",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Casanova, Fernando ",A Preparatory Class,A Preparatory Class,TRUE,1916-1917,Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Casanova, Maria",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Castaing, Jovito Evans",Senior Class,Senior Class,TRUE,1911-1912,Ponce,Ponce,Puerto Rico,West Indies,North America,m,TRUE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Cavanaugh, Alfred O.",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,"Guabito, Bocas Del Toro",Guabito,Panama,Central America,North America,m,TRUE,"9.477959499999999, -82.5943072",9.477959499999999,-82.5943072
+"Celis, Juanita Colon",A Preparatory Class,A Preparatory Class,TRUE,1905-1906,Yabucoa,Yabucoa,Puerto Rico,West Indies,North America,f,TRUE,"18.0505201, -65.8793288",18.0505201,-65.8793288
+"Cestero, Frederic",Junior Class,Junior Class,TRUE,1906-1907,Bayamon,Bayamon,Puerto Rico,West Indies,North America,m,TRUE,"18.389396, -66.1653224",18.389396,-66.1653224
+"Champa, Angela Celestine",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,"Port Limon OR Colon/ Panama City, Panama",Port Limon,Costa Rica,Central America,North America,f,TRUE,"9.9913106, -83.04150779999999",9.9913106,-83.04150779999999
+"Chipuli, Ramon Hernandez",A Preparatory Class,A Preparatory Class,TRUE,1915-1916,Havana OR Vera Cruz Mexico,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Christie, Jas. Lee",n/a,n/a,TRUE,1907-1908,Port Limon,Port Limon,Costa Rica,Central America,North America,m,TRUE,"9.9913106, -83.04150779999999",9.9913106,-83.04150779999999
+"Clay, Arthur Nathaniel",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,"Georgetown, Demerara",Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Clemens, Walter Kamba",A Middle Class,A Middle Class,TRUE,1914-1915,Monrovia,Monrovia,Liberia,West Africa,Africa,m,TRUE,"6.2907432, -10.7605239",6.2907432,-10.7605239
+"Clendinen, Cleominene Melbine",Junior Class,Junior Class,TRUE,1911-1912,St. Thomas,St. Thomas,U.S. Virgin Islands,West Indies,North America,f,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Cole, Geddes Geraldine",Junior Class,Junior Class,TRUE,1912-1913,"Siquirres OR U.S. Virgin Islandsia, Guatemala",Siquirres,Costa Rica,Central America,North America,f,TRUE,"10.0981388, -83.5096859",10.0981388,-83.5096859
+"Colon, Isidro Alonzo",Junior Class,Junior Class,TRUE,1905-1906,Guayama,Guayama,Puerto Rico,West Indies,North America,m,TRUE,"17.9841328, -66.1137767",17.9841328,-66.1137767
+"Colon, Juanita",A Middle Class,A Middle Class,TRUE,1907-1908,Yabucoa,Yabucoa,Puerto Rico,West Indies,North America,f,TRUE,"18.0505201, -65.8793288",18.0505201,-65.8793288
+"Comissiong, Leo Ralph ",Junior Class,Junior Class,TRUE,1905-1906,Port of Spain,Port of Spain,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.6549013, -61.50192559999999",10.6549013,-61.50192559999999
+"Concepcion, Pedro",Junior Class,Junior Class,TRUE,1905-1906,Fajardo,Fajardo,Puerto Rico,West Indies,North America,m,TRUE,"18.3257869, -65.6523838",18.3257869,-65.6523838
+"Condola, John Waimba Dundas",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Luebo,Luebo,Democratic Republic of Congo,Central Africa,Africa,m,TRUE,"-5.3512395, 21.4216267",-5.3512395,21.4216267
+"Connolly, John Cecil",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,East End,East End,Cayman Islands,West Indies,North America,m,TRUE,"19.2996147, -81.1099536",19.2996147,-81.1099536
+"Cook, Victor A.",Junior Class,Junior Class,TRUE,1911-1912,,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Cookman, Walter Constantine",B Middle Class,B Middle Class,TRUE,1911-1912,Port Maria,Port Maria,Jamaica,West Indies,North America,m,TRUE,"18.3653596, -76.8922729",18.3653596,-76.8922729
+"Cordova, Juan Alberta *",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,Havana,Havana,Cuba,West Indies,North America,m,FALSE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Cortez, Manuella Providencia",A Middle Class,A Middle Class,TRUE,1911-1912,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,f,TRUE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Cotilla, Francisco",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Cowington, Henry Oscar",B Middle Class,B Middle Class,TRUE,1914-1915,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Crawford, John R.",Post-Graduates,Post-Graduates,TRUE,1906-1907,Bridgetown,Bridgetown,Barbados,West Indies,North America,m,TRUE,"13.0968511, -59.61448189999999",13.0968511,-59.61448189999999
+"Cuadrado, Maria Morino",B Preparatory Class,B Preparatory Class,TRUE,1903-1904,Humacao,Humacao,Puerto Rico,west Indies,North America,f,TRUE,"18.1551337, -65.8203943",18.1551337,-65.8203943
+"Cumberbatch, Lionel Alonzo",Post-Graduates,Post-Graduates,TRUE,1902-1903,Chaguanas,Chaguanas,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.5331201, -61.39685979999999",10.5331201,-61.39685979999999
+"Cunningham, George Malcolm",Junior Class,Junior Class,TRUE,1905-1906,Lucia,Lucia,Jamaica,West Indies,North America,m,TRUE,"18.4504186, -78.17639369999999",18.4504186,-78.17639369999999
+"Curling, Joseph Alexander",B Preparatory Class,B Preparatory Class,TRUE,1912-1913,"Bocas Del Toro OR Kingston, Jamaica",Bocas Del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Cush, James McDonald ",Post-Graduates,Post-Graduates,TRUE,1912-1913,Georgetown,Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Daniel, Victor Hugh",Junior Class,Junior Class,TRUE,1907-1908,,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Daniels, Lemoss Arthur",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Muscogee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Daniels, Rafael",B Middle Class,B Middle Class,TRUE,1911-1912,,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Dash, Egbert ",C Preparatory Class,C Preparatory Class,TRUE,1912-1913,"St. Clair, Isle of Pines",Isle of Pines,Cuba,West Indies,North America,m,TRUE,"21.7084737, -82.82202319999999",21.7084737,-82.82202319999999
+"Daumec, August ",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Davila, Edward R",Junior Class,Junior Class,TRUE,1905-1906,Yabucoa,Yabucoa,Puerto Rico,West Indies,North America,m,TRUE,"18.0505201, -65.8793288",18.0505201,-65.8793288
+"Davis, Charles Henry",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,Lee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Davis, Edward Benjamin",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Davis, Flavio E. Henry",Special C Preparatory Class,Special C Preparatory Class,TRUE,1918-1919,Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"De Jesus, Quintin ",B Middle Class,B Middle Class,TRUE,1913-1914,Arecibo,Arecibo,Puerto Rico,West Indies,North America,m,TRUE,"18.444247, -66.6464068",18.444247,-66.6464068
+"Debrosse, Marc",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Del Risco, Louis",A Middle Class,A Middle Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Delgado, Arturo",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Delis, Amado",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Del'Risco, Amado",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Despaigne, Julius",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Guantanamo/Santiago,Guantanamo,Cuba,West Indies,North America,m,TRUE,"20.1400094, -75.2128996",20.1400094,-75.2128996
+"Dixon, Charlotte Elizabeth",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,Turrialba,Turrialba,Costa Rica,Central America,North America,f,TRUE,"9.9067054, -83.6800512",9.9067054,-83.6800512
+"Dixon, Jeremiah",B Middle Class,B Middle Class,TRUE,1905-1906,,,Belize,Central America,North America,m,TRUE,"17.189877, -88.49765",17.189877,-88.49765
+"Domenech, Fermin",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Sagua La Grande/ Santa Clara,Sagua La Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Dorfeuil, Frank ",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Dryce, John Samuel ",B Middle Class,B Middle Class,TRUE,1903-1904,,,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.691803, -61.222503",10.691803,-61.222503
+"Dunbar, Peter Cornelius",Special Students,Special Students,TRUE,1919-1920,,,Liberia,Central Africa,Africa,m,TRUE,"6.428055, -9.429499000000002",6.428055,-9.429499000000002
+"Duncan, Charles F ",B Middle Class,B Middle Class,TRUE,1906-1907,Pembroke,Pembroke,Trinidad and Tobago,West Indies,North America,m,TRUE,"11.2180388, -60.62342890000001",11.2180388,-60.62342890000001
+"Duncan, George Selvin",Junior Class,Junior Class,TRUE,1905-1906,Falmouth,Falmouth,Jamaica,West Indies,North America,m,TRUE,"18.4928457, -77.656476",18.4928457,-77.656476
+"Duncan, James Wesley",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Monrovia,Monrovia,Liberia,West Africa,Africa,m,TRUE,"6.2907432, -10.7605239",6.2907432,-10.7605239
+"Duncan, Nellie Kathlenie",Post-Graduates,Post-Graduates,TRUE,1902-1903,Kingston,Kingston,Jamaica,West Indies,North America,f,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Duncanson, Allen Jerrett ",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Dunson, Peter Cornelius",Special Students,Special Students,TRUE,1920-1921,,,Liberia,West Africa,Africa,m,TRUE,"6.428055, -9.429499000000002",6.428055,-9.429499000000002
+"Ebanks, Leopold",Phelps Hall Bible Training School - Junior Class,Phelps Hall Bible Training School - Junior Class,TRUE,1911-1912,Georgetown,Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Eccleston, Cecil Hewell",Junior Class,Junior Class,TRUE,1914-1915,"Duncans, St. Mary",Duncans,Jamaica,West Indies,North America,m,TRUE,"18.4691383, -77.5404459",18.4691383,-77.5404459
+"Echavarria, Angel Whatts",Senior Class,Senior Class,TRUE,1911-1912,Arecibo,Arecibo,Puerto Rico,West Indies,North America,m,TRUE,"18.444247, -66.6464068",18.444247,-66.6464068
+"Eden, John Sumner",Special C Preparatory Class,Special C Preparatory Class,TRUE,1915-1916,Roatan or Stann Creek British Honduras/Belize,Roatan,Honduras,Central America,North America,m,TRUE,"16.3297608, -86.5299673",16.3297608,-86.5299673
+"Edriera, Nicolas",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Ellis, Herbert (Hubbard) Alexander",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,"Lemont/Estrada/Juan Vians or Kingston, Jamaica",Estrada,Costa Rica,Central America,North America,m,TRUE,"10.0600517, -83.2746836",10.0600517,-83.2746836
+"Ellis, Micaela",A Preparatory Class,A Preparatory Class,TRUE,1905-1906,Ciales,Ciales,Puerto Rico,West Indies,North America,f,TRUE,"18.3353252, -66.4680716",18.3353252,-66.4680716
+"Encinosa, Alfredo Perez",B Middle Class,B Middle Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Ervin (Irwin Erwin), Edward Hickman",A Preparatory Class,A Preparatory Class,TRUE,1904-1905,"Calgary, Alberta",Calgary,Canada,Alberta,North America,m,TRUE,"51.0486151, -114.0708459",51.0486151,-114.0708459
+"Escabi, Antonio",Post-Graduates,Post-Graduates,TRUE,1911-1912,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,m,TRUE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Escapa, Jose Isabel",Junior Class,Junior Class,TRUE,1915-1916,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,m,FALSE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Esturio, Ignacia",A Middle Class,A Middle Class,TRUE,1905-1906,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Evans, Athnaise",Special C Preparatory Class,Special C Preparatory Class,TRUE,1915-1916,"Bocas del Toro OR St. Lucia, Troisselle",Bocas del Toro,Panama,Central America,North America,f,FALSE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Farfan, Phillip Paul ",Post-Graduates,Post-Graduates,TRUE,1903-1904,,,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.691803, -61.222503",10.691803,-61.222503
+"Ferandey, Constantino",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Fernandez, Ernesto",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Fernandez, Francisco",B Middle Class,B Middle Class,TRUE,1914-1915,Juncos,Juncos,Puerto Rico,West Indies,North America,m,TRUE,"18.2274558, -65.92099700000001",18.2274558,-65.92099700000001
+"Fernandez, William Antonio",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Ferrand, Manuel",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,Samana,Santo Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4860575, -69.93121169999999",18.4860575,-69.93121169999999
+"Ferrer, Lucia Odelia",A Middle Class,A Middle Class,TRUE,1913-1914,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Figueras, Jose",B Middle Class,B Middle Class,TRUE,1913-1914,Rio Piedras/Santurce/ San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Flores, Jose Clavijo ",B Middle Class,B Middle Class,TRUE,1913-1914,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Forsythe, Albert Ernest",B Middle Class,B Middle Class,TRUE,1911-1912,Port Antonio,Port Antonio,Jamaica,West Indies,North America,m,TRUE,"18.1712764, -76.44763209999999",18.1712764,-76.44763209999999
+"Forsythe, Wilfred (WInfred) Bell",Junior Class,Junior Class,TRUE,1912-1913,"Clonmel, St. Mary",St. Mary,Jamaica,West Indies,North America,m,FALSE,"18.3092711, -76.964306",18.3092711,-76.964306
+"Fraser, Charles Arthur",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,New Providence,New Providence,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"French, Eustace Nathaniel",Special C Preparatory Class,Special C Preparatory Class,TRUE,1916-1917,Saint Elizabeth,Saint Elizabeth,Jamaica,West Indies,North America,m,TRUE,"18.0788461, -77.69941969999999",18.0788461,-77.69941969999999
+"French, W. Anthony",A Middle Class,A Middle Class,TRUE,1906-1907,Basseterre,Basseterre,St. Kitts & Nevis,West Indies,North America,m,TRUE,"17.3026058, -62.7176924",17.3026058,-62.7176924
+"Friend, Robert Alexander",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,,,Ecuador,Amazon Basin,South America,m,TRUE,"-1.831239, -78.18340599999999",-1.831239,-78.18340599999999
+"Gallagher, John ",Junior Class,Junior Class,TRUE,1905-1906,Port of Spain,Port of Spain,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.6549013, -61.50192559999999",10.6549013,-61.50192559999999
+"Gambaro, Fruto",C Preparatory Class,C Preparatory Class,TRUE,1906-1907,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Garcia, Avelino",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Santurce,Santurce,Puerto Rico,West Indies,North America,m,TRUE,"18.4481441, -66.0641969",18.4481441,-66.0641969
+"Garcia, Julius ",C Preparatory Class,C Preparatory Class,TRUE,1911-1912,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Garcia, Lucas ",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Manate,Manate,Puerto Rico,West Indies,North America,m,TRUE,"18.433005, -66.4758583",18.433005,-66.4758583
+"Gayle, Gilmore Jacob",B Middle Class,B Middle Class,TRUE,1911-1912,"Siquirres or Kingston, Jamaica",Siquirres,Costa Rica,Central America,North America,m,TRUE,"10.0981388, -83.5096859",10.0981388,-83.5096859
+"Geffrard, Marceau",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Gonaives,Gonaives,Haiti,West Indies,North America,m,TRUE,"19.4511496, -72.6801576",19.4511496,-72.6801576
+"Geffrard, Sylvio",C Preparatory Class,C Preparatory Class,TRUE,1903-1904,Gonaives,Gonaives,Haiti,West Indies,North America,m,TRUE,"19.4511496, -72.6801576",19.4511496,-72.6801576
+"Getus, Estelan",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Gibson, Calvin Courtney",B Middle Class (Second Year),B Middle Class,FALSE,,"Nassau, New Providence",Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Glaude, Alfred",C Preparatory Class,C Preparatory Class,TRUE,1911-1912,,,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.691803, -61.222503",10.691803,-61.222503
+"Gomez, Juan Eusebio",Junior Class,Junior Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Gonzales, Nicolas Biboline ",B Preparatory Class,B Preparatory Class,TRUE,1903-1904,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Gonzalez, Edwards Adelo ",B Preparatory Class,B Preparatory Class,TRUE,1912-1913,Los Martinas,Los Martinas,Cuba,West Indies,North America,m,TRUE,"21.9645818, -84.151428",21.9645818,-84.151428
+"Gonzalez, Lina",B Preparatory Class,B Preparatory Class,TRUE,1903-1904,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Gonzalez, Ramon ",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,,,Puerto Rico,West Indies,North America,m,TRUE,"18.220833, -66.590149",18.220833,-66.590149
+"Gordon, Arnold ",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,"Nassau, New Providence",Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Gousse, Marc Christian",B Middle Class,B Middle Class,TRUE,1915-1916,Jacmel,Jacmel,Haiti,West Indies,North America,m,TRUE,"18.2430063, -72.52639839999999",18.2430063,-72.52639839999999
+"Gow, Francis Harmon",Junior Class,Junior Class,TRUE,1904-1905,Cape Town,Cape Town,South Africa,Southern Africa,Africa,m,FALSE,"-33.9248685, 18.4240553",-33.9248685,18.4240553
+"Gowen, Miguel ",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,Maximo Gomez,Maximo Gomez,Cuba,West Indies,North America,m,TRUE,"22.899516, -81.03406009999999",22.899516,-81.03406009999999
+"Goytia, Raymond Reyes",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Graham, Edmond",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Grant, Luther Martin",Special C Preparatory Class,Special C Preparatory Class,TRUE,1914-1915,Hope Bay,Hope Bay,Jamaica,West Indies,North America,m,TRUE,"18.1984796, -76.56471739999999",18.1984796,-76.56471739999999
+"Green, Mary Elizabeth",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Drumilly Falmouth,Falmouth,Jamaica,West Indies,North America,f,TRUE,"18.4928457, -77.656476",18.4928457,-77.656476
+"Grey, Joseph Edward",B Middle Class,B Middle Class,TRUE,1911-1912,,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Guil, Antonio Trujillo",B Middle Class,B Middle Class,TRUE,1902-1903,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Gutierez, Manuel",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Ramedios/Havana,Ramedios,Cuba,West Indies,North America,m,TRUE,"22.4963477, -79.5462943",22.4963477,-79.5462943
+"Guzman, Ignacio",B Middle Class,B Middle Class,TRUE,1919-1920,Bayamon,Bayamon,Puerto Rico,West Indies,North America,m,TRUE,"18.389396, -66.1653224",18.389396,-66.1653224
+"Guzman, Petra",Junior Class,Junior Class,TRUE,1905-1906,Yauco,Yauco,Puerto Rico,West Indies,North America,f,TRUE,"18.034964, -66.84989829999999",18.034964,-66.84989829999999
+"H__bbert, Lilla S.",Junior Class,Junior Class,TRUE,1907-1908,Port Limon,Limon,Costa Rica,Central America,North America,f,TRUE,"9.9913106, -83.04150779999999",9.9913106,-83.04150779999999
+"Haillaire, Emile George",B Preparatory Class,B Preparatory Class,TRUE,1912-1913,Port de Paix,Port de Paix,Haiti,West Indies,North America,m,TRUE,"19.9348887, -72.8308692",19.9348887,-72.8308692
+"Hamilton, Jas. D.",Junior Class,Junior Class,TRUE,1907-1908,Montpelier,Montpelier,Jamaica,West Indies,North America,m,TRUE,"18.3628964, -77.9238872",18.3628964,-77.9238872
+"Hamilton, Marie",Junior Class,Junior Class,TRUE,1914-1915,Cayon,Cayon,St. Kitts & Nevis,West Indies,North America,f,TRUE,"17.3523259, -62.7338581",17.3523259,-62.7338581
+"Hamilton, Susan",Junior Class,Junior Class,TRUE,1917-1918,Cayon,Cayon,St. Kitts & Nevis,West Indies,North America,f,TRUE,"17.3523259, -62.7338581",17.3523259,-62.7338581
+"Harry, Edmond Valentine",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Hawkins, Benjamin Adolphus",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Falmouth,Falmouth,Jamaica,West Indies,North America,m,TRUE,"18.4928457, -77.656476",18.4928457,-77.656476
+"Henningham, Barnabas Nathaniel",C Preparatory Class,C Preparatory Class,TRUE,1912-1913,Mandeville,Mandeville,Jamaica,West Indies,North America,m,TRUE,"18.0312855, -77.5046101",18.0312855,-77.5046101
+"Henry, Thomas Reginald",Junior Class,Junior Class,TRUE,1905-1906,Lawrence Tavern/ Kingston ,Kingston ,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Heraclio, Balaguer ",C Preparatory Class,C Preparatory Class,TRUE,1906-1907,Coamo,Coamo,Puerto Rico,West Indies,North America,m,TRUE,"18.0799616, -66.35794729999999",18.0799616,-66.35794729999999
+"Hernandez, Joaquin ",A Preparatory Class,A Preparatory Class,TRUE,1915-1916,Santiago,San Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4489182, -69.9865207",18.4489182,-69.9865207
+"Hernandez, Julio ",Special Students,Special Students,TRUE,1919-1920,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Hernandez, Rafael Manfredo",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Santiago,San Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4860575, -69.93121169999999",18.4860575,-69.93121169999999
+"Hill, Sandy Anderson",Junior Class,Junior Class,TRUE,1903-1904,Beggs,Oklahoma,USA,Indian Territory,North America,m,FALSE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Hiram, Frank Kerrisa",Junior Class,Junior Class,TRUE,1915-1916,Jimina Nonno,,Ethiopia,East Africa,Africa,m,TRUE,"9.145000000000001, 40.489673",9.145000000000001,40.489673
+"Hogart, Marcel ",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Holder, Hafford Alonso",Junior Class,Junior Class,TRUE,1911-1912,Georgetown,Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Hollingsworth, Ivanhoe",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Bocas Del Toro/ Panama City,Bocas Del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Holmes, Henry W.",Junior Class,Junior Class,TRUE,1903-1904,Okmulgee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Hooker, Christopher Adolph",A Preparatory Class,A Preparatory Class,TRUE,1905-1906,Bluefields,Bluefields,Nicaragua,Central America,North America,m,TRUE,"12.0111402, -83.7703693",12.0111402,-83.7703693
+"Howell, Miguel",C Preparatory Class,C Preparatory Class,TRUE,1919-1920,Port Barrios,Port Barrios,Guatemala,Central America,North America,m,TRUE,"15.7318052, -88.58477789999999",15.7318052,-88.58477789999999
+"Ibanez, Leonardo",C Preparatory Class,C Preparatory Class,TRUE,1903-1904,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Iles, Emile Gilbert",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Gustavia,Gustavia,St. Barthélemy,West Indies,North America,m,TRUE,"17.9, -62.833333",17.9,-62.833333
+"Iles, Robert Valeri",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Gustavia,Gustavia,St. Barthélemy,West Indies,North America,m,TRUE,"17.8964345, -62.85220099999999",17.8964345,-62.85220099999999
+"Ingram, Edward Constantine",B Middle Class,B Middle Class,TRUE,1903-1904,Bluefields,Bluefields,Nicaragua,Central America,North America,m,TRUE,"12.0111402, -83.7703693",12.0111402,-83.7703693
+"Irving, Emmaline",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Refuge Duncan/ Spring Seaforth,Seaforth,Jamaica,West Indies,North America,f,TRUE,"17.9453521, -76.4534165",17.9453521,-76.4534165
+"Isaacs, Jos. Clairmon",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,Port of Spain,Port of Spain,Trinidad,West Indies,North America,m,TRUE,"10.6549013, -61.50192559999999",10.6549013,-61.50192559999999
+"Jackson, Andrew Seth",Special Students,Special Students,TRUE,1911-1912,"Muhlenbery Mission, Monrovia",Monrovia,Liberia,West Africa,Africa,m,TRUE,"6.2907432, -10.7605239",6.2907432,-10.7605239
+"Jackson, David Augustus",Junior Class,Junior Class,TRUE,1911-1912,"Gayle, St. Marys","Gayle, St. Marys",Jamaica,West Indies,North America,m,TRUE,"18.3267954, -77.0075055",18.3267954,-77.0075055
+"Jacquin, Nicholas John",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Bocas Del Toro,Bocas Del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Jaentschke, Leopold Hubert",A Preparatory Class,A Preparatory Class,TRUE,1905-1906,Bluefields,Bluefields,Nicaragua,Central America,North America,m,TRUE,"12.0111402, -83.7703693",12.0111402,-83.7703693
+"Jama, Mohamed",Special C Preparatory Class,Special C Preparatory Class,TRUE,1915-1916,Aden,Aden,Yemen,Middle East,Asia,m,TRUE,"12.7854969, 45.0186548",12.7854969,45.0186548
+"Jefferson, Benjamin",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Creek Nation,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Jeremiah, Nathaniel ",C Preparatory Class,C Preparatory Class,TRUE,1913-1914,St. Patrick,St. Patrick,Grenada,West Indies,North America,m,TRUE,"12.2056921, -61.64211719999999",12.2056921,-61.64211719999999
+"Jiminez, Arturo",Special Students,Special Students,TRUE,1913-1914,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Jiminez, Jose",A Preparatory Class,A Preparatory Class,TRUE,1914-1915,Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Johnson, Ida Bertha",Junior Class,Junior Class,TRUE,1902-1903,Muscogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Johnson, Josiah Emanuel",Senior Class,Senior Class,TRUE,1902-1903,Montego Bay,Montego Bay,Jamaica,West Indies,North America,m,TRUE,"18.4762228, -77.8938895",18.4762228,-77.8938895
+"Jones, Abraham, Jr.",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Samana,San Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4860575, -69.93121169999999",18.4860575,-69.93121169999999
+"Jones, Ernest Cyril Briely",Junior Class,Junior Class,TRUE,1914-1915,Cape Mount/ Robertsport,Robertsport,Liberia,West Africa,Africa,m,TRUE,"6.7509063, -11.367219",6.7509063,-11.367219
+"Jones, Herman C.",A Preparatory Class,A Preparatory Class,TRUE,,Puerto Taraja,Puerto Taraja,Cuba,West Indies,North America,m,TRUE,"21.521757, -77.781167",21.521757,-77.781167
+"Jones, Richard Hannidal ",Junior Class,Junior Class,TRUE,1906-1907,St. Ann,St. Ann,Jamaica,West Indies,North America,m,TRUE,"18.3281428, -77.2405153",18.3281428,-77.2405153
+"Joseph, Annette",C Preparatory Class,C Preparatory Class,TRUE,1906-1907,Mahaicomy,Mahaicomy,Guyana,Caribbean South America,South America,f,TRUE,"6.573360099999999, -57.8097861",6.573360099999999,-57.8097861
+"Joseph, John Alfonso",A Middle Class,A Middle Class,TRUE,1912-1913,Hillsborough,Hillsborough,Grenada,West Indies,North America,m,TRUE,"12.4818703, -61.45565670000001",12.4818703,-61.45565670000001
+"Kamuqa, Edmund W. S. ",B Middle Class,B Middle Class,TRUE,1913-1914,"Engcobo, Timbuland",Engcobo,South Africa,Southern Africa,Africa,m,TRUE,"-31.6727543, 27.9834738",-31.6727543,27.9834738
+"Kato, Danieri",B Preparatory Class,B Preparatory Class,TRUE,,,Kampala,Uganda,East Africa,Africa,m,TRUE,"0.3475964, 32.5825197",0.3475964,32.5825197
+"Kawahara, Iwane",A Middle Class,A Middle Class,TRUE,1906-1907,Saga,Saga,Japan,Far East,Asia,m,FALSE,"33.263482, 130.3008576",33.263482,130.3008576
+"Kerr, John Winford",C Preparatory Class,C Preparatory Class,TRUE,1906-1907,"Nassau, New Providence",Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Kinderlane, Francisco ",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"King, Frances Lucile",Junior Class,Junior Class,TRUE,1917-1918,Toronto,Toronto,Canada,Ontario,North America,f,FALSE,"43.653226, -79.3831843",43.653226,-79.3831843
+"Knight, Charles Fitzabert ",B Preparatory CLass,B Preparatory CLass,TRUE,1903-1904,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Knight, Jonathan",Junior Class,Junior Class,TRUE,1902-1903,Bridgetown,Bridgetown,Barbados,West Indies,North America,m,TRUE,"13.0968511, -59.61448189999999",13.0968511,-59.61448189999999
+"Kolhoff, Casper Ward",B Middle Class,B Middle Class,TRUE,1914-1915,Pernville/Travancore,Trivandrum,India,Central Asia,Asia,m,TRUE,"8.5241391, 76.9366376",8.5241391,76.9366376
+"Kuenene, Samuel",B Middle Class,B Middle Class,TRUE,1904-1905,Cape Colony,Cape of Good Hope,South Africa,Southern Africa,Africa,m,TRUE,"-34.3568425, 18.4739882",-34.3568425,18.4739882
+"Kwatsha, Vice Joel",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,"Alice, Cape Colony",Alice,South Africa,Southern Africa,Africa,m,TRUE,"-32.7901325, 26.8329509",-32.7901325,26.8329509
+"Lafaye, Louis",Post-Graduates,Post-Graduates,TRUE,1911-1912,Ponce,Ponce,Puerto Rico,West Indies,North America,m,TRUE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Lake, Ernest Boyfield",C Preparatory Class,C Preparatory Class,TRUE,1919-1920,Port Barrios,Port Barrios,Guatemala,Central America,North America,m,TRUE,"15.7318052, -88.58477789999999",15.7318052,-88.58477789999999
+"Laraque, Joseph ",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Larreque, Jacinto ",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Larrinago (Lauanaga), Juan",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Larrondo, Jose M. ",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,Sagua la Grande,Sagua la Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Lavaud, Alexander",A Middle Class,A Middle Class,TRUE,1906-1907,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Leach, John Abraham",Junior Class,Junior Class,TRUE,1904-1905,,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Lecompte, Eugene",Senior Class,Senior Class,TRUE,1902-1903,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Leesten, Henry Van (VanLeesten)",Post-Graduates,Post-Graduates,TRUE,1911-1912,Maagden Straat/ Paramaribo,Paramaribo,Suriname,Caribbean South America,South America,m,TRUE,"5.8520355, -55.2038278",5.8520355,-55.2038278
+"Leslie, Sibyl Isola",B Middle Class,B Middle Class,TRUE,1913-1914,Betheltown,Betheltown,Jamaica,West Indies,North America,f,TRUE,"18.2899888, -77.9530942",18.2899888,-77.9530942
+"Letman, John",Junior Class,Junior Class,TRUE,1911-1912,Westmoreland,Westmoreland,Jamaica,West Indies,North America,m,TRUE,"18.2944378, -78.1564432",18.2944378,-78.1564432
+"Levy, Philip Verone",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,Bocas Del Toro,Bocas Del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Lewis, Luanna",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,Lee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Lilavios, Leon",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Lindo, James Alfred",Senior Class,Senior Class,TRUE,1911-1912,Plymouth,Plymouth,Montserrat,West Indies,North America,m,TRUE,"16.706523, -62.21573799999999",16.706523,-62.21573799999999
+"Linton, Joseph York ",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,Bridgetown,Bridgetown,Jamaica,West Indies,North America,m,TRUE,"18.4792834, -77.8813452",18.4792834,-77.8813452
+"Littman, Alfred B.",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Antemarnaro/ Antanambo/ Antanguariro,Antanambo,Madagascar,East Africa,Africa,m,TRUE,"-15.24914, 47.2110709",-15.24914,47.2110709
+"Llims, Antonio ",C Preparatory Class,C Preparatory Class,TRUE,1915-1916,Jovellanos,Jovellanos,Cuba,West Indies,North America,m,TRUE,"22.8080569, -81.19404039999999",22.8080569,-81.19404039999999
+"Lopez, Arturo Cataleno ",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Bocas del Toro,Bocas del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Lopez, Fabiana Martinez",B Middle Class,B Middle Class,TRUE,1911-1912,Fajardo,Fajardo,Puerto Rico,West Indies,North America,f,TRUE,"18.3257869, -65.6523838",18.3257869,-65.6523838
+"Lopez, Miguel ",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,Santiago,San Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4489182, -69.9865207",18.4489182,-69.9865207
+"Lopez, Raoul Armando",Post-Graduates,Post-Graduates,TRUE,1912-1913,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Lopez, Victoria Bocanigra ",B Middle Class,B Middle Class,TRUE,1911-1912,Aquadilla,Aquadilla,Puerto Rico,West Indies,North America,f,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Lowe, James Nathaniel",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Savannalemas,Savannalemas,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Lowe, Walter James",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,"OR  Kingston, Jamaica",,Costa Rica,Central America,North America,m,TRUE,"9.748916999999999, -83.753428",9.748916999999999,-83.753428
+"Loyo, Jose",A Preparatory Class,A Preparatory Class,TRUE,1916-1917,Callao,Callao,Peru,Amazon Basin,South America,m,TRUE,"-12.0508491, -77.1259843",-12.0508491,-77.1259843
+"Ludovic, Orlando ",B Middle Class,B Middle Class,TRUE,1907-1908,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Luzipo, Hamilton Samuel",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Toleni Transki,Mthatha,South Africa,Southern Africa,Africa,m,TRUE,"-31.6066839, 28.7780987",-31.6066839,28.7780987
+"Machore, Garfield",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Bocas del Toro,Bocas del Toro,Panama,Central America,South America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"MacIntyre, William Arthur",Post-Graduates,Post-Graduates,TRUE,1902-1903,,,Trinidad,West Indies,North America,m,TRUE,"10.3757217, -61.23355919999999",10.3757217,-61.23355919999999
+"Mahlatjie, Nathaniel ",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,"Petersburg, Transvaal",Polokwane,South Africa,Southern Africa,Africa,m,TRUE,"-23.8961708, 29.4486263",-23.8961708,29.4486263
+"Malcolm, Thomas Elliott",Post-Graduates,Post-Graduates,TRUE,1913-1914,Mandeville,Mandeville,Jamaica,West Indies,North America,m,TRUE,"18.0312855, -77.5046101",18.0312855,-77.5046101
+"Manautou, Gregoris",A Middle Class,A Middle Class,TRUE,1905-1906,Arroyo,Arroyo,Puerto Rico,West Indies,North America,m,TRUE,"17.9925084, -66.05458229999999",17.9925084,-66.05458229999999
+"Marrero, Armando Fontanill",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Martin, Hubert (Herbert)",B Middle Class,B Middle Class,TRUE,1914-1915,Port Maria,Port Maria,Jamaica,West Indies,North America,m,TRUE,"18.3653596, -76.8922729",18.3653596,-76.8922729
+"Martinez, Aurelio",C Preparatory Class,C Preparatory Class,TRUE,1920-1921,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Martinez, Francisco ",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Matanzas,Matanzas,Cuba,West Indies,North America,m,TRUE,"23.0303395, -81.5322149",23.0303395,-81.5322149
+"Martinez, Lorenso F",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Matanzas,Matanzas,Cuba,West Indies,North America,m,TRUE,"23.0303395, -81.5322149",23.0303395,-81.5322149
+"Martinez, Nicolas ",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Matanzas,Matanzas,Cuba,West Indies,North America,m,TRUE,"23.0303395, -81.5322149",23.0303395,-81.5322149
+"Martinzez, Joseph Emanuel",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Masdeu, Alejandrina",Senior Class,Senior Class,TRUE,1911-1912,Santurce,Santurce,Puerto Rico,West Indies,North America,f,TRUE,"18.4481441, -66.0641969",18.4481441,-66.0641969
+"Massingo, Enoch Silolo",B Preparatory Class,B Preparatory Class,TRUE,1903-1904,Johannesburg/ Basutoland,Johannesburg,South Africa,Southern Africa,Africa,m,TRUE,"-26.2041028, 28.0473051",-26.2041028,28.0473051
+"Matthews, James Oscar ",A Middle Class,A Middle Class,TRUE,1915-1916,Port Maria,Port Maria,Jamaica,West Indies,North America,m,TRUE,"18.3653596, -76.8922729",18.3653596,-76.8922729
+"Maura, John Wilberforce",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Mawalile, Ponnett",C Preparatory Class,C Preparatory Class,TRUE,1914-1915,"St. Columbus Mission, Bulawayo, Metabele ",Bulaway,Zimbabwe,East Africa,Africa,f,FALSE,"-20.1325066, 28.626479",-20.1325066,28.626479
+"May, Arthur",A Middle Class,A Middle Class,TRUE,1905-1906,,St. Andrews ,Grenada,Central America,North America,m,TRUE,"12.1230598, -61.64211719999999",12.1230598,-61.64211719999999
+"May, Michael Antonio",Junior Class,Junior Class,TRUE,1912-1913,St. Andrews,St. Andrews,Grenada,West Indies,North America,m,TRUE,"12.1230598, -61.64211719999999",12.1230598,-61.64211719999999
+"May, Rolo Gillespie",Junior Class,Junior Class,TRUE,1911-1912,Maymount,St. Andrews,Grenada,West Indies,North America,m,TRUE,"12.1230598, -61.64211719999999",12.1230598,-61.64211719999999
+"Maycock, Albert",Junior Class,Junior Class,TRUE,1902-1903,Castries,Castries,St. Lucia,West Indies,North America,m,TRUE,"14.0101094, -60.98746869999999",14.0101094,-60.98746869999999
+"McArthur, Renwick H. Gladstone",A Middle Class (Third Year),A Middle Class,FALSE,,Paramaribo,Paramaribo,Guyana,Caribbean South America,South America,m,TRUE,"5.8520355, -55.2038278",5.8520355,-55.2038278
+"McDonald, Annie Louise ",Special Students,Special Students,TRUE,1913-1914,Kingston,Kingston,Jamaica,West Indies,North America,f,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Mcdonald, Frank",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Guantanamo,Guantanamo,Cuba,West Indies,North America,m,TRUE,"20.1400094, -75.2128996",20.1400094,-75.2128996
+"McDonald, William Barrington",B Middle Class,B Middle Class,TRUE,1914-1915,"Guantanamo, Oriente",Guantanamo,Cuba,West Indies,North America,m,TRUE,"20.1400094, -75.2128996",20.1400094,-75.2128996
+"McFIeld, Otis Harrison",A Preparatory Class,A Preparatory Class,TRUE,1914-1915,Roatan,Roatan,Honduras,Central America,North America,m,TRUE,"16.3297608, -86.5299673",16.3297608,-86.5299673
+"McFields, Oswald",Junior Class (First Year),Junior Class,FALSE,1920-1921,Roatan,Roatan,Honduras,Central America,North America,m,TRUE,"16.3297608, -86.5299673",16.3297608,-86.5299673
+"McKay, Festus Claudues ",A Middle Class,A Middle Class,TRUE,1912-1913,Crooked River,Crooked River,Jamaica,West Indies,North America,m,TRUE,"18.1402767, -77.30372299999999",18.1402767,-77.30372299999999
+"McKenzie, Donald James",B Middle Class,B Middle Class,TRUE,1911-1912,Port Antonio,Port Antonio,Jamaica,West Indies,North America,m,TRUE,"18.1712764, -76.44763209999999",18.1712764,-76.44763209999999
+"McKenzie, Maurice Lewis",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Port Antonio,Port Antonio,Jamaica,West Indies,North America,m,TRUE,"18.1712764, -76.44763209999999",18.1712764,-76.44763209999999
+"Melendez, Manuel",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Darada,Darada,Puerto Rico,West Indies,North America,m,TRUE,"18.4588347, -66.2676683",18.4588347,-66.2676683
+"Melendez, Stanislas Sixto",Junior Class,Junior Class,TRUE,1911-1912,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Mena, Lenward St. John",B Middle Class,B Middle Class,TRUE,1902-1903,Bluefields,Bluefields,Nicaragua,Central America,North America,m,TRUE,"12.0111402, -83.7703693",12.0111402,-83.7703693
+"Mendez, Louis",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,m,TRUE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Mercado, Monserrate",Junior Class,Junior Class,TRUE,1905-1906,Ponce,Ponce,Puerto Rico,West Indies,North America,m,TRUE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Mfoafo, Stephen Balfour",B Middle Class,B Middle Class,TRUE,1913-1914,Larteh,Larteh,Ghana,West Africa,Africa,m,TRUE,"5.9356816, -0.0793488",5.9356816,-0.0793488
+"Miller, Amos Lincoln",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Samana ,Samana,Dominican Republic,West Indies,North America,m,TRUE,"19.2030757, -69.3387664",19.2030757,-69.3387664
+"Miller, Matthew Tate",B Middle Class (Second Year),B Middle Class,FALSE,1920-1921,Chaudler Hill,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Miller, Randolph Cornelius ",A Middle Class,A Middle Class,TRUE,1913-1914,St. Thomas,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Miranda, Jose Dolores",A Middle Class,A Middle Class,TRUE,1919-1920,Bayamon,Bayamon,Puerto Rico,West Indies,North America,m,TRUE,"18.389396, -66.1653224",18.389396,-66.1653224
+"Mirando, Primitive Leocadio",Senior Class,Senior Class,TRUE,1911-1912,Sagua la Grande,Sagua la Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Mirando, Ricardo",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Sagua La Grande,Sagua La Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Mirando, Theodore",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Sagua La Grande,Sagua La Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Modise, Josiel",A Preparatory Class,A Preparatory Class,TRUE,1905-1906,Basutoland,Lesotho,South Africa,Southern Africa,Africa,m,TRUE,"-29.609988, 28.233608",-29.609988,28.233608
+"Monge, Augusto",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,Sagua la Grande,Sagua la Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Monplaisir, Charles ",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Montez, Thomas",Junior Class,Junior Class,TRUE,1905-1906,Arecibo,Arecibo,Puerto Rico,West Indies,North America,m,TRUE,"18.444247, -66.6464068",18.444247,-66.6464068
+"Moodie, Reuben Alexander",Junior Class,Junior Class,TRUE,1903-1904,Montego Bay,Montego Bay,Jamaica,West Indies,North America,m,TRUE,"18.4762228, -77.8938895",18.4762228,-77.8938895
+"Moore, Eleanor Ketura",Special Students,Special Students,TRUE,1911-1912,Port of Spain,Port of Spain,Trinidad,West Indies,North America,f,TRUE,"10.6549013, -61.50192559999999",10.6549013,-61.50192559999999
+"Mora, Jose",Junior Class,Junior Class,TRUE,1911-1912,Sagua la Grande,Sagua la Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Morejon, Louis Felipe",B Middle Class,B Middle Class,TRUE,1917-1918,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Morell, Viterbo",A Preparatory Class,A Preparatory Class,TRUE,1915-1916,Santiago,San Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4489182, -69.9865207",18.4489182,-69.9865207
+"Moreno, Marie Magdalene",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Humacao,Humacao,Puerto Rico,West Indies,North America,f,TRUE,"18.1551337, -65.8203943",18.1551337,-65.8203943
+"Morgan, Constantine Adolphus ",Junior Class,Junior Class,TRUE,1905-1906,Whitehouse,White House,Jamaica,West Indies,North America,m,TRUE,"18.0943972, -77.9667267",18.0943972,-77.9667267
+"Morgan, Ferdinand ",Junior Class,Junior Class,TRUE,1905-1906,Whitehouse,White House,Jamaica,West Indies,North America,m,TRUE,"18.0943972, -77.9667267",18.0943972,-77.9667267
+"Morrice, Vinton R.",C Preparatory Class,C Preparatory Class,TRUE,1912-1913,Santa Cruz,Santa Cruz,Jamaica,West Indies,North America,m,TRUE,"18.0500867, -77.7051443",18.0500867,-77.7051443
+"Morter, Reginald Asher",B Middle Class,B Middle Class,TRUE,1902-1903,Belieye,Belize City,Belize,Central America,North America,m,TRUE,"17.5045661, -88.1962133",17.5045661,-88.1962133
+"Moses, John W.",Post-Graduates,Post-Graduates,TRUE,1919-1920,Hope Town,Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Munez, Vicente Gil",A Middle Class,A Middle Class,TRUE,1915-1916,Mayaguez,Mayaguez,Puerto Rico,West Indies,North America,m,TRUE,"18.2013452, -67.1451549",18.2013452,-67.1451549
+"Munoz, Lorenzo",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,Santiago,Santiago,Dominican Republic,West Indies,North America,m,TRUE,"19.4791963, -70.6930568",19.4791963,-70.6930568
+"Nabb, Doe Jua",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,Monrovia,Monrovia,Liberia,West Africa,Africa,m,FALSE,"6.2907432, -10.7605239",6.2907432,-10.7605239
+"Narfles, Theodore",Senior Class,Senior Class,TRUE,1913-1914,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Neale, Benjamin Alexander",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Cape Palmas,Cape Palmas,Liberia,West Africa,Africa,m,TRUE,"4.3688889, -7.728611099999999",4.3688889,-7.728611099999999
+"Needham, Enos Bancroft",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Port Antonio,Port Antonio,Jamaica,West Indies,North America,m,TRUE,"18.1712764, -76.44763209999999",18.1712764,-76.44763209999999
+"Negron, Jose Cesteros",Junior Class,Junior Class,TRUE,1911-1912,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Neilson, Eric",A Middle Class,A Middle Class,TRUE,1911-1912,,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Neilson, Harold Lewis Anthony",B Middle Class,B Middle Class,TRUE,1911-1912,Fredericksted,St. Croix,U.S. Virgin Islands,West Indies,North America,m,TRUE,"17.7245968, -64.83479919999999",17.7245968,-64.8347992
+"Nieves, Lina Gonzalez",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Nightingale, Cyril F.",A Preparatory Class,A Preparatory Class,TRUE,,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Nkomo, Alfred",B Preparatory Class,B Preparatory Class,TRUE,1903-1904,"Alice, Cape Colony",Alice,South Africa,Southern Africa,Africa,m,TRUE,"-32.7901325, 26.8329509",-32.7901325,26.8329509
+"Nunez, Alphonso",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Sagua La Grande,Sagua La Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Nunez, Arturo",Senior Class,Senior Class,TRUE,1911-1912,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Nunez, Pedro",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Sagua La Grande,Sagua La Grande,Cuba,West Indies,North America,m,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Officer, Birdie Lee",B Middle Class,B Middle Class,TRUE,1906-1907,Laguna De Terminos Compeche,Isla del Carmen,Mexico,Yucatan Peninsula,North America,f,FALSE,"18.6504879, -91.80745859999999",18.6504879,-91.80745859999999
+"Officer, Chas. ",Junior Class,Junior Class,TRUE,1907-1908,Laguna,Isla del Carmen,Mexico,Yucatan Peninsula,North America,m,TRUE,"18.6504879, -91.80745859999999",18.6504879,-91.80745859999999
+"Officer, Flora Cornelia ",B Middle Class,B Middle Class,TRUE,1906-1907,Laguna De Terminos Compeche,Isla del Carmen,Mexico,Yucatan Peninsula,North America,f,TRUE,"18.6504879, -91.80745859999999",18.6504879,-91.80745859999999
+"Ollarvia, Julio",A Middle Class,A Middle Class,TRUE,1911-1912,Aguadilla,Aguadilla,Puerto Rico,West Indies,North America,m,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Oquendo, Juanita",A Middle Class,A Middle Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Orriol, Antonio Santos",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Osborne, Reginald Hugh",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,"Kingston OR Bocas Del Toro, Panama
+",Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Osrio, Juan L",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Conovonos,Conovonos,Puerto Rico,West Indies,North America,m,TRUE,"18.3748748, -65.8997533",18.3748748,-65.8997533
+"Outten, Edmondo Carmelo",B Preparatory Class,B Preparatory Class,TRUE,1915-1916,Bocas del Toro,Bocas del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Outten, Ernesto Christus",A Preparatory Class,A Preparatory Class,TRUE,1914-1915,Bocas Del Toro,Bocas Del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Paddyfoot, Caleb Archer",A Middle Class,A Middle Class,TRUE,1911-1912,Albertown,Albertown,Jamaica,West Indies,North America,m,TRUE,"18.2929119, -77.5418791",18.2929119,-77.5418791
+"Paison, Pedro, Jr.",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Pantaleon, Miguelina",B Middle Class,B Middle Class,TRUE,1913-1914,"Cuez, Fajardo",Fajardo,Puerto Rico,West Indies,North America,f,TRUE,"18.3257869, -65.6523838",18.3257869,-65.6523838
+"Parks, Israel Jr.",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Patton, Gilbert",B Middle Class,B Middle Class,TRUE,1902-1903,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Pento, Claudio",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,Matanzas,Matanzas,Cuba,West Indies,North America,m,TRUE,"23.0303395, -81.5322149",23.0303395,-81.5322149
+"Pereira, Lino ",Junior Class,Junior Class,TRUE,1914-1915,Juncos,Juncos,Puerto Rico,West Indies,North America,m,TRUE,"18.2274558, -65.92099700000001",18.2274558,-65.92099700000001
+"Pereira, Paula Carmona",B Middle Class (Second Year),B Middle Class,FALSE,1920-1921,Rio Piedras,Rio Piedras,Puerto Rico,West Indies,North America,f,TRUE,"18.3934403, -66.0493273",18.3934403,-66.0493273
+"Perez, Agustin ",C Preparatory Class,C Preparatory Class,TRUE,1915-1916,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Perez, Edelmino Jr.",Special Students,Special Students,TRUE,1905-1906,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Perez, Julio ",B Preparatory Class,B Preparatory Class,TRUE,1912-1913,San Jaurez,San Jaun,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Phillips, Rachael Smith",Senior Class,Senior Class,TRUE,1904-1905,Montego Bay,Montego Bay,Jamaica,West Indies,North America,f,TRUE,"18.4762228, -77.8938895",18.4762228,-77.8938895
+"Pieters, Charles",Post-Graduates,Post-Graduates,TRUE,1915-1916,"Stanley Town, New Amsterdam",New Amsterdam,Guyana,Caribbean South America,South America,m,TRUE,"6.243132699999999, -57.5136508",6.243132699999999,-57.5136508
+"Pineyro, Joaquin",Special Students,Special Students,TRUE,1904-1905,Havana/ Esperanza,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Pinto, Arturo ",B Middle Class,B Middle Class,TRUE,1911-1912,Monati,Monati,Puerto Rico,West Indies,North America,m,TRUE,"18.433005, -66.4758583",18.433005,-66.4758583
+"Pinto, Claudio ",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Matanzas,Matanzas,Cuba,West Indies,North America,m,TRUE,"23.0303395, -81.5322149",23.0303395,-81.5322149
+"Pintt, Carlos",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Aguadulce/ Panama City,Aguadulce,Panama,Central America,North America,m,TRUE,"8.230175599999999, -80.5549561",8.230175599999999,-80.5549561
+"Plummer, Dudley C. ",A Middle Class,A Middle Class,TRUE,1907-1908,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Point du Jour, Terrence",Junior Class (First Year),Junior Class,FALSE,1920-1921,Port de Paix,Port de Paix,Haiti,West Indies,North America,m,TRUE,"19.9348887, -72.8308692",19.9348887,-72.8308692
+"Policard, Louis G.B.",A Preparatory Class,A Preparatory Class,TRUE,1905-1906,Les Cayes,Les Cayes,Haiti,West Indies,North America,m,TRUE,"18.2042851, -73.7536695",18.2042851,-73.7536695
+"Pompey, Robert ",C Preparatory Class,C Preparatory Class,TRUE,1920-1921,Georgetown,Georgetown,Guyana,Caribbean South America,South America,m,TRUE,"6.8012793, -58.1551255",6.8012793,-58.1551255
+"Porleta, Guillermo ",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,San Juan,San Juan,Puerto Rico,West Indies,North America,m,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Poso, Julio ",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Pinar del Rio,Pinar del Rio,Cuba,West Indies,North America,m,TRUE,"22.4076256, -83.8473015",22.4076256,-83.8473015
+"Powell, Jesse Lee ",A Preparatory Class,A Preparatory Class,TRUE,1914-1915,"Windsor, Ontario",Windsor,Canada,Ontario,North America,m,TRUE,"42.3149367, -83.03636329999999",42.3149367,-83.03636329999999
+"Prescott, Ivan C.",n/a,n/a,TRUE,1911-1912,Princes Town,Princes Town,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.2659505, -61.37643809999999",10.2659505,-61.37643809999999
+"Price, Richard",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,Roatan,Roatan,Honduras,Central America,North America,m,TRUE,"16.3297608, -86.5299673",16.3297608,-86.5299673
+"Pusey, Bethnel Aldrich",B Middle Class,B Middle Class,TRUE,1905-1906,Grugh,St. Andrews ,Grenada,Central America,North America,m,TRUE,"12.1230598, -61.64211719999999",12.1230598,-61.64211719999999
+"Pusey, Charlotte",C Preparatory Class,C Preparatory Class,TRUE,1920-1921,Spanish Town,Spanish Town,Jamaica,West Indies,North America,f,TRUE,"18.0193171, -76.9758274",18.0193171,-76.9758274
+"Pusey, Gabriel Reniso",Junior Class,Junior Class,TRUE,1904-1905,Grugh,St. Andrews ,Grenada,Central America,North America,m,TRUE,"12.1230598, -61.64211719999999",12.1230598,-61.64211719999999
+"Quantt, George Jerome",B Preparatory Class,B Preparatory Class,TRUE,1920-1921,Grand Turk,Grand Turk,Turks and Caicos Islands,West Indies,North America,m,TRUE,"21.4674584, -71.13891009999999",21.4674584,-71.13891009999999
+"Ramirez, Augusto",A Middle Class,A Middle Class,TRUE,1912-1913,Sabana Grande,Sabana Grande,Puerto Rico,West Indies,North America,m,TRUE,"18.0777392, -66.9604549",18.0777392,-66.9604549
+"Ramirez, Celestine",Junior Class,Junior Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Ramirez, Rafael Gallol",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Ramirez, Sixta",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Ramos, Rafael",A Middle Class,A Middle Class,TRUE,1911-1912,Ponce,Ponce,Puerto Rico,West Indies,North America,m,TRUE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Rawlins, Alfred Oscar",Post-Graduates,Post-Graduates,TRUE,1903-1904,Princes Town,Princes Town,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.2659505, -61.37643809999999",10.2659505,-61.37643809999999
+"Reed, Minor Charles",A Preparatory Class,A Preparatory Class,TRUE,1913-1914,Gent/ Estrada,Estrada,Costa Rica,Central America,North America,m,TRUE,"10.0600517, -83.2746836",10.0600517,-83.2746836
+"Reeves, Cleveland Hartington ",A Preparatory Class,A Preparatory Class,TRUE,1911-1912,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Reid, Alex",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"Reid, Frank Peter",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,Westmoreland,Westmoreland,Jamaica,West Indies,North America,m,TRUE,"18.2944378, -78.1564432",18.2944378,-78.1564432
+"Reid, Norman Jehorada",B Middle Class,B Middle Class,TRUE,1914-1915,"Westmoreland, Bluefields",Bluefields,Jamaica,West Indies,North America,m,TRUE,"18.1741581, -78.0295273",18.1741581,-78.0295273
+"Reina, Felix",Junior Class,Junior Class,TRUE,1902-1903,Aguadilla,Aguadilla,Puerto Rico,West Indies,North America,m,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Renaud, Edgard ",B Middle Class,B Middle Class,TRUE,1907-1908,Saint-Marc,Saint-Marc,Haiti,West Indies,North America,m,TRUE,"19.104927, -72.69493729999999",19.104927,-72.69493729999999
+"Rengifo, Edward Montenegro",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Cauca/ Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Reveron, Alphonso",Junior Class,Junior Class,TRUE,1907-1908,Yabucoa,Yabucoa,Puerto Rico,West Indies,North America,m,TRUE,"18.0505201, -65.8793288",18.0505201,-65.8793288
+"Richardson, John E.",A Preparatory Class,A Preparatory Class,TRUE,1906-1907,Okmulgee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Rivera, Asuncion",Junior Class,Junior Class,TRUE,1905-1906,Juana Diaz,Juana Diaz,Puerto Rico,West Indies,North America,m,TRUE,"18.0534372, -66.5075079",18.0534372,-66.5075079
+"Rivera, Celina Marcelina",A Middle Class,A Middle Class,TRUE,1911-1912,Fajardo,Fajardo,Puerto Rico,West Indies,North America,f,TRUE,"18.3257869, -65.6523838",18.3257869,-65.6523838
+"Rivera, Juan",A Middle Class,A Middle Class,TRUE,1916-1917,Juana Diaz,Juana Diaz,Puerto Rico,West Indies,North America,m,TRUE,"18.0534372, -66.5075079",18.0534372,-66.5075079
+"Rivera, Thomas Montes",Senior Class,Senior Class,TRUE,1907-1908,Arecibo,Arecibo,Puerto Rico,West Indies,North America,m,TRUE,"18.444247, -66.6464068",18.444247,-66.6464068
+"Roberts, Brenville Reeves",Junior Class,Junior Class,TRUE,1917-1918,"Nassau, New Providence",Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Robinson, Equal Eight",C Preparatory Class,C Preparatory Class,TRUE,1911-1912,Windsor,Windsor,Canada,Ontario,North America,n/a,TRUE,"42.3149367, -83.03636329999999",42.3149367,-83.03636329999999
+"Robinson, Ethel Moudannie",B Middle Class,B Middle Class,TRUE,1906-1907,St. Johns,St. Johns,Antigua and Barbuda,West Indies,North America,f,TRUE,"17.1274104, -61.84677199999999",17.1274104,-61.84677199999999
+"Robinson, Ismay James",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,Mandeville,Mandeville,Jamaica,West Indies,North America,m,FALSE,"18.0312855, -77.5046101",18.0312855,-77.5046101
+"Roche, Philip Augustus",A Middle Class,A Middle Class,TRUE,1912-1913,Bonny Gate/ Kingston,Bonny Gate,Jamaica,West Indies,North America,m,TRUE,"18.3215154, -76.950227",18.3215154,-76.950227
+"Rodriguez, Berenice Aurelia",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,Ponce,Ponce,Puerto Rico,West Indies,North America,f,TRUE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Rodriguez, Frances James",B Middle Class,B Middle Class,TRUE,1912-1913,Ponce,Ponce,Puerto Rico,West Indies,North America,m,FALSE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Rodriguez, Francisco Antonio",B Preparatory Class,B Preparatory Class,TRUE,1915-1916,Santiago,San Domingo,Dominican Republic,West Indies,North America,m,TRUE,"18.4860575, -69.93121169999999",18.4860575,-69.93121169999999
+"Rodriguez, Maria",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,Bayamon,Bayamon,Puerto Rico,West Indies,North America,f,TRUE,"18.389396, -66.1653224",18.389396,-66.1653224
+"Rodriguez, Sixto Vicente",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Rodruquez, Carlos Tyquierdo",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Roig, Isidro Acea ",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Rojas, Catalina Hernandez",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Humacao,Humacao,Puerto Rico,West Indies,North America,f,TRUE,"18.1551337, -65.8203943",18.1551337,-65.8203943
+"Rone, William Boyd",C Preparatory Class,C Preparatory Class,TRUE,1906-1907,Boley,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Rosa, Rafaela",Junior Class,Junior Class,TRUE,1905-1906,Caguas,Caguas,Puerto Rico,West Indies,North America,f,TRUE,"18.2387995, -66.035249",18.2387995,-66.035249
+"Rosa, Roman G. ",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,Arecibo,Arecibo,Puerto Rico,West Indies,North America,m,TRUE,"18.444247, -66.6464068",18.444247,-66.6464068
+"Rosello, Severiana Fernandez",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,Sagua La Grande,Sagua La Grande,Cuba,West Indies,North America,f,TRUE,"22.8037709, -80.0702555",22.8037709,-80.0702555
+"Rosemond, Maurice ",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Rosthwaite, Tulio",B Preparatory Class,B Preparatory Class,TRUE,1912-1913,Panama,Panama,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Rouzier, Frank Weiner",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Jerimie/ Port au Prince,Jerimie,Haiti,West Indies,North America,m,TRUE,"18.6389698, -74.1181234",18.6389698,-74.1181234
+"Rowan, Wesley George",Special Students,Special Students,TRUE,1916-1917,Montego Bay,Montego Bay,Jamaica,West Indies,North America,m,TRUE,"18.4762228, -77.8938895",18.4762228,-77.8938895
+"Ruiz, Felipe",C Preparatory Class,C Preparatory Class,TRUE,1911-1912,Isabela/ Santurce,Isabela,Puerto Rico,West Indies,North America,m,TRUE,"18.4703856, -67.0242062",18.4703856,-67.0242062
+"Ruiz, Poco Tomas ",Senior Class,Senior Class,TRUE,1911-1912,Cobre,Cobre,Cuba,West Indies,North America,m,TRUE,"20.046941, -75.949227",20.046941,-75.949227
+"Rumler, Jose Francisco",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,Panama City,Panama City,Panama,Central America,North America,m,TRUE,"8.9823792, -79.51986959999999",8.9823792,-79.51986959999999
+"Russel, Erskine B.",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Bocas del Toro,Bocas del Toro,Panama,Central America,North America,m,TRUE,"9.416552099999999, -82.5207787",9.416552099999999,-82.5207787
+"Sadler, Frederick Douglass",Senior Class,Senior Class,TRUE,1914-1915,"Poole, Port of Spain",Poole,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.2994002, -61.2328306",10.2994002,-61.2328306
+"Sagardia, Felipe",C Preparatory Class,C Preparatory Class,TRUE,1903-1904,Aguadilla,Aguadilla,Puerto Rico,West Indies,North America,m,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Samon, Earnest Etienne",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Sanabria, Vicente",B Middle Class,B Middle Class,TRUE,1916-1917,Catano,Catano,Puerto Rico,West Indies,North America,m,TRUE,"18.4465355, -66.1355775",18.4465355,-66.1355775
+"Sanchez, Francisca Eloise",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,Arroyo,Arroyo,Puerto Rico,West Indies,North America,f,TRUE,"17.9925084, -66.05458229999999",17.9925084,-66.05458229999999
+"Sanchez, Ramon ",A Middle Class,A Middle Class,TRUE,1905-1906,Baracoa,Baracoa,Cuba,West Indies,North America,m,TRUE,"20.3474809, -74.5023819",20.3474809,-74.5023819
+"Sandlo (Sandola), Robinson",C Preparatory Class,C Preparatory Class,TRUE,1913-1914,"Engcobo, Timbuland",Engcobo,South Africa,Southern Africa,Africa,m,TRUE,"-31.6727543, 27.9834738",-31.6727543,27.9834738
+"Sarcita, Jose Encamacion",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Saunders, Amos Carey",Junior Class,Junior Class,TRUE,1912-1913,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Scott, Robert Nathaniel",Junior Class,Junior Class,TRUE,1913-1914,Falmouth,Falmouth,Jamaica,West Indies,North America,m,TRUE,"18.4928457, -77.656476",18.4928457,-77.656476
+"Scott, Walter Benjamin",A Middle Class,A Middle Class,TRUE,1903-1904,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Scott, Walter Elliot",A Preparatory Class,A Preparatory Class,TRUE,1904-1905,Clarksville,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Scruggs, John Franklin",Junior Class,Junior Class,TRUE,1903-1904,Oklahoma,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Scruggs, Pearl Stella",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Oklahoma,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Seely, Samuel Thomas ",Junior Class,Junior Class,TRUE,1904-1905,St. Johns,St. Johns,Barbados,West Indies,North America,m,TRUE,"13.1824334, -59.5033496",13.1824334,-59.5033496
+"Sharpe, George Alexander",Senior Class,Senior Class,TRUE,1911-1912,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Shirley, Alfred Emanuel",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,"Fairy Hill, Hope Bay",Fairy Hill,Jamaica,West Indies,North America,m,TRUE,"18.1641262, -76.36806960000001",18.1641262,-76.36806960000001
+"Shirley, Simeon",C Preparatory Class,C Preparatory Class,TRUE,1914-1915,Hope Bay,Hope Bay,Jamaica,West Indies,North America,m,TRUE,"18.1984796, -76.56471739999999",18.1984796,-76.56471739999999
+"Sierra, Saturnina (Saturnino) Fegoo, Jr.",Junior Class,Junior Class,TRUE,1902-1903,San Juan,San Juan,Puerto Rico,West Indies,North America,m,FALSE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Silvera, Warren Rupert",B Middle Class,B Middle Class,TRUE,1907-1908,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Simpson, Hugh Bartholomen",A Middle Class,A Middle Class,TRUE,1911-1912,Black River,Black River,Jamaica,West Indies,North America,m,TRUE,"18.0825057, -77.76769949999999",18.0825057,-77.76769949999999
+"Sires, Manuel J.",A Preparatory Class,A Preparatory Class,TRUE,1914-1915,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Smilie, Emma Dora",A Preparatory Class,A Preparatory Class,TRUE,1904-1905,Purcell,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Smith, John Ross",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Lee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Smith, Lilla Albertha",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Port Antonio,Port Antonio,Jamaica,West Indies,North America,f,TRUE,"18.1712764, -76.44763209999999",18.1712764,-76.44763209999999
+"Smith, Norman Jacob",Junior Class,Junior Class,TRUE,1911-1912,New Jersey/ Port Limon,Limon,Costa Rica,Central America,North America,m,TRUE,"9.9913106, -83.04150779999999",9.9913106,-83.04150779999999
+"Smith, Vesper Dell",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,Port Antonio,Port Antonio,Jamaica,West Indies,North America,m,TRUE,"18.1712764, -76.44763209999999",18.1712764,-76.44763209999999
+"Sobers, James Thomas",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,,,Barbados,West Indies,North America,m,TRUE,"13.193887, -59.543198",13.193887,-59.543198
+"Soler, Pedro ",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Santiago,Santiago de Cuba,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Sosa, Urbans ",Special Students,Special Students,TRUE,1904-1905,Santiago,Santiago de Cuba,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Soto, Antonio Maria",Junior Class,Junior Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,FALSE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Sotolongo, Pedro ",B Preparatory Class,B Preparatory Class,TRUE,1915-1916,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Spikes, Berry",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Muscogee,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"St. Frere, Clement ",Post-Graduates,Post-Graduates,TRUE,1903-1904,Port au Prince,Port au Prince,Haiti,West Indies,North America,m,TRUE,"18.594395, -72.3074326",18.594395,-72.3074326
+"Steele, John B.",Special Students,Special Students,TRUE,1911-1912,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Stennett, Robert Samuel",B Middle Class,B Middle Class,TRUE,1911-1912,Montego Bay,Montego Bay,Jamaica,West Indies,North America,m,TRUE,"18.4762228, -77.8938895",18.4762228,-77.8938895
+"Stephens, Cecil",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Guacimo,Guacimo,Costa Rica,Central America,North America,m,TRUE,"10.2127003, -83.6866091",10.2127003,-83.6866091
+"Sterling, Andrew",B Middle Class,B Middle Class,TRUE,1913-1914,Deerside,Deerside,Jamaica,West Indies,North America,m,TRUE,"17.9911555, -76.8184241",17.9911555,-76.8184241
+"Steward, George Wesley",C Preparatory Class,C Preparatory Class,TRUE,1904-1905,Valliant,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Stewart, Arthur Henry",Junior Class,Junior Class,TRUE,1907-1908,Port of Spain,Port of Spain,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.6549013, -61.50192559999999",10.6549013,-61.50192559999999
+"Stewart, William",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Vallient,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Sucre, Carlos J.",B Preparatory Class,B Preparatory Class,TRUE,1915-1916,Aguadulce,Aguadulce,Panama,Central America,North America,m,TRUE,"8.230175599999999, -80.5549561",8.230175599999999,-80.5549561
+"Sugar, Julia Leone",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Muscogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Symonette, Roland       ",A Preparatory Class,A Preparatory Class,TRUE,1917-1918,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Syrett, Matilda Louise",A Middle Class (Third Year),A Middle Class,FALSE,,Bluefields,Bluefields,Jamaica,West Indies,North America,f,TRUE,"18.1741581, -78.0295273",18.1741581,-78.0295273
+"Taylor, Maria Ella",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Muscogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Taylor, Thomas A. C.",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Port of Spain,Port of Spain,Trinidad and Tobago,West Indies,North America,m,TRUE,"10.6549013, -61.50192559999999",10.6549013,-61.50192559999999
+"Thomas, Josiah J.",Post-Graduates,Post-Graduates,TRUE,1906-1907,Cross Keys,Cross Keys,Jamaica,West Indies,North America,m,TRUE,"17.8934858, -77.5018448",17.8934858,-77.5018448
+"Thomas, Maude Theresa",A Preparatory Class,A Preparatory Class,TRUE,1903-1904,Bluefields,Bluefields,Nicaragua,Central America,North America,f,TRUE,"12.0111402, -83.7703693",12.0111402,-83.7703693
+"Thomas, William",A Preparatory Class,A Preparatory Class,TRUE,1907-1908,Old Road,Old Road Town,St. Kitts & Nevis,West Indies,North America,m,TRUE,"17.3247616, -62.8044145",17.3247616,-62.8044145
+"Thompson, Catherine Ella",B Middle Class,B Middle Class,TRUE,1905-1906,St. Margarets Bay,St. Margarets Bay,Jamaica,West Indies,North America,f,TRUE,"18.1917654, -76.5314817",18.1917654,-76.5314817
+"Thompson, Solomon Amariah Veerl",Junior Class,Junior Class,TRUE,1914-1915,Thompsontown,Thompsontown,Jamaica,West Indies,North America,m,TRUE,"18.0866489, -77.3726379",18.0866489,-77.3726379
+"Thorpe, Samuel Leopold",B Middle Class,B Middle Class,TRUE,1907-1908,Port Maria,Port Maria,Jamaica,West Indies,North America,m,TRUE,"18.3653596, -76.8922729",18.3653596,-76.8922729
+"Tirado, Andres",Junior Class,Junior Class,TRUE,1905-1906,Coamo,Coamo,Puerto Rico,West Indies,North America,m,TRUE,"18.0799616, -66.35794729999999",18.0799616,-66.35794729999999
+"Tizol, Lola Laguardia",Junior Class,Junior Class,TRUE,1902-1903,Ponce,Ponce,Puerto Rico,West Indies,North America,f,TRUE,"18.0110768, -66.6140616",18.0110768,-66.6140616
+"Toledano, Carlos Manricion",B Middle Class,B Middle Class,TRUE,1912-1913,Colon/ Panama City,Colon,Panama,Central America,North America,m,TRUE,"9.359302, -79.89986080000001",9.359302,-79.89986080000001
+"Torres, Francisco",C Preparatory Class,C Preparatory Class,TRUE,1911-1912,Matanzas/ San Jose Ramos,Matanzas,Cuba,West Indies,North America,m,TRUE,"23.0303395, -81.5322149",23.0303395,-81.5322149
+"Torres, Maria Louise",Senior Class,Senior Class,TRUE,1911-1912,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Torres, Onofre",Junior Class,Junior Class,TRUE,1905-1906,Aibonita,Aibonita,Puerto Rico,West Indies,North America,m,TRUE,"18.140702, -66.2596811",18.140702,-66.2596811
+"Torres, Providencia (Cabello Delia)",B Middle Class,B Middle Class,TRUE,1912-1913,San Juan,San Juan,Puerto Rico,West Indies,North America,f,TRUE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Trenard, Emilio",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Trilla, Josepina",A Preparatory Class,A Preparatory Class,TRUE,1902-1903,Aquadilla,Aquadilla,Puerto Rico,West Indies,North America,f,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Tucker, Fitzgerald",Junior Class,Junior Class,TRUE,1916-1917,,,Guyana,Caribbean South America,South America,m,TRUE,"4.860416, -58.93018",4.860416,-58.93018
+"Tulloch, William Herbert",Junior Class (First Year),Junior Class,FALSE,1920-1921,Kingston,Kingston,Jamaica,West Indies,North America,m,TRUE,"18.0178743, -76.8099041",18.0178743,-76.8099041
+"Tute, Robb A.",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,"Georgetown, Stabreak",Stabroek,Guyana,Caribbean South America,South America,m,TRUE,"6.8082536, -58.1629544",6.8082536,-58.1629544
+"Tyndall, Henry Renford Jr.",B Preparatory Class,B Preparatory Class,TRUE,1913-1914,Old Harbor,Old Harbor,Jamaica,West Indies,North America,m,TRUE,"17.941076, -77.10824439999999",17.941076,-77.10824439999999
+"Vaillant, Francisco ",Junior Class,Junior Class,TRUE,1911-1912,Santiago,Santiago,Cuba,West Indies,North America,m,TRUE,"20.01693, -75.8301537",20.01693,-75.8301537
+"Valardo, Anita",Junior Class,Junior Class,TRUE,1905-1906,Aguadilla,Aguadilla,Puerto Rico,West Indies,North America,f,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Valbrune, Emile ",B Preparatory Class,B Preparatory Class,TRUE,1907-1908,Saint-Marc,Saint-Marc,Haiti,West Indies,North America,m,TRUE,"19.104927, -72.69493729999999",19.104927,-72.69493729999999
+"Valdes, Julian",Junior Class,Junior Class,TRUE,1903-1904,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Valdes, Luis Delfin(e)",B Preparatory Class,B Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Valladores, Jesus",C Preparatory Class,C Preparatory Class,TRUE,,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Valle, Carlos Celedoma",A Middle Class,A Middle Class,TRUE,1911-1912,Aguadilla,Aguadilla,Puerto Rico,West Indies,North America,m,TRUE,"18.4274454, -67.1540698",18.4274454,-67.1540698
+"Van Aller, Vincent",B Preparatory Class,B Preparatory Class,TRUE,1916-1917,,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Van Royer, Alexander",B Middle Class,B Middle Class,TRUE,1904-1905,Port Elizabeth,Port Elizabeth,South Africa,Southern Africa,Africa,m,TRUE,"-33.9608369, 25.6022423",-33.9608369,25.6022423
+"Vaquez, Raimundo",B Preparatory Class,B Preparatory Class,TRUE,1917-1918,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Vargus, Agripina",Junior Class,Junior Class,TRUE,1905-1906,"Bocas Del Toro OR Kingston, Jamaica
+",Bocas Del Toro,Puerto Rico,West Indies,North America,f,TRUE,"18.3440772, -66.0374704",18.3440772,-66.0374704
+"Varo, Pedro S.",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Vilato, Jose Eleno",C Preparatory Class,C Preparatory Class,TRUE,1902-1903,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Vllariny, Neri",B Middle Class,B Middle Class,TRUE,1912-1913,Aldea Loiza/ San Juan ,San Juan ,Puerto Rico,West Indies,North America,m,FALSE,"18.4655394, -66.1057355",18.4655394,-66.1057355
+"Walker, Amos",Special C Preparatory Class,Special C Preparatory Class,TRUE,1914-1915,Spanish Town,Spanish Town,Jamaica,West Indies,North America,m,TRUE,"18.0193171, -76.9758274",18.0193171,-76.9758274
+"Walker, James Barnaby",Post-Graduates,Post-Graduates,TRUE,1902-1903,Hagley Gap/ Kingston,Hagley Gap,Jamaica,West Indies,North America,m,TRUE,"18.0136173, -76.6196097",18.0136173,-76.6196097
+"Wallace, Ignatius",A Middle Class,A Middle Class,TRUE,1918-1919,"Nassau, New Providence",Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Walter, Claude",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Roatan,Roatan,Honduras,Central America,North America,m,TRUE,"16.3297608, -86.5299673",16.3297608,-86.5299673
+"Wardah, Charles Tedo",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Grand Bassa,Grand Bassa,Liberia,West Africa,Africa,m,TRUE,"6.2308452, -9.8124935",6.2308452,-9.8124935
+"Waterford, Mamie Augusta",A Middle Class,A Middle Class,TRUE,1903-1904,Muskogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Waterford, Nettie Gertrude",A Middle Class,A Middle Class,TRUE,1903-1904,Muskogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Waterford, Sadie Ruberta",B Middle Class,B Middle Class,TRUE,1903-1904,Muskogee,Oklahoma,USA,Indian Territory,North America,f,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Watson, Mary",Post-Graduates,Post-Graduates,TRUE,1917-1918,Willowdene,Willowdene,Jamaica,West Indies,North America,f,TRUE,"17.995106, -76.9830277",17.995106,-76.9830277
+"Weir, Charles Hilton",B Middle Class,B Middle Class,TRUE,1902-1903,Nassau,Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Weir, Ormand Folkes",Junior Class,Junior Class,TRUE,1905-1906,"Nassau, New Providence",Nassau,Bahamas,West Indies,North America,m,TRUE,"25.0479835, -77.355413",25.0479835,-77.355413
+"Wellington, Stephen Gordon",Junior Class,Junior Class,TRUE,1903-1904,Port Maria/ Constant Springs,Port Maria,Jamaica,West Indies,North America,m,TRUE,"18.3653596, -76.8922729",18.3653596,-76.8922729
+"White, Arcadio V.",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,,,Guatemala,Central America,North America,m,TRUE,"15.783471, -90.23075899999999",15.783471,-90.23075899999999
+"White, Samuel Henry",A Preparatory Class,A Preparatory Class,TRUE,1914-1915,Montserrat/ Couva,,Jamaica,West Indies,North America,m,TRUE,"18.109581, -77.297508",18.109581,-77.297508
+"William, Charles W.",Junior Class,Junior Class,TRUE,1912-1913,Monrovia,Monrovia,Liberia,West Africa,Africa,m,TRUE,"6.2907432, -10.7605239",6.2907432,-10.7605239
+"Williams, Carrie",Post-Graduates,Post-Graduates,TRUE,1903-1904,Spanish Town,Spanish Town,Jamaica,West Indies,North America,f,TRUE,"18.0193171, -76.9758274",18.0193171,-76.9758274
+"Williams, Ebenezer ",Special Students,Special Students,TRUE,1913-1914,Chapelton,Chapelton,Jamaica,West Indies,North America,m,TRUE,"18.0797857, -77.2692503",18.0797857,-77.2692503
+"Williams, Isaac Samuel Moroundia",A Middle Class,A Middle Class,TRUE,1913-1914,"Ebute Metta, Lagos",Lagos,Nigeria,West Africa,Africa,m,TRUE,"6.5243793, 3.3792057",6.5243793,3.3792057
+"Williams, Martin ",Junior Class,Junior Class,TRUE,1919-1920,Grange Hill,Grange Hill,Jamaica,West Indies,North America,m,TRUE,"18.3109894, -78.18779219999999",18.3109894,-78.18779219999999
+"Williams, Moses Benefacio",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,Cape Palmas,Cape Palmas,Liberia,West Africa,Africa,m,TRUE,"4.3688889, -7.728611099999999",4.3688889,-7.728611099999999
+"Williams, Wilford Adolphus",B Preparatory Class,B Preparatory Class,TRUE,1904-1905,,,Costa Rica,Central America,North America,m,TRUE,"9.748916999999999, -83.753428",9.748916999999999,-83.753428
+"Wilson, Albion Smith",A Preparatory Class,A Preparatory Class,TRUE,1912-1913,"Ellis Harbor, Somerset",Somerset Village,Bermuda,West Indies,North America,m,TRUE,"32.3009651, -64.8659279",32.3009651,-64.8659279
+"Wilson, Anthony Josiah",B Preparatory Class,B Preparatory Class,TRUE,1905-1906,St. Elizabeth Balaclava,St. Elizabeth Balaclava,Jamaica,West Indies,North America,m,TRUE,"18.1718343, -77.65074890000001",18.1718343,-77.65074890000001
+"Wilson, John Winfred",B Preparatory Class,B Preparatory Class,TRUE,1911-1912,Somerset,Somerset,Bermuda,West Indies,North America,m,TRUE,"32.3009651, -64.8659279",32.3009651,-64.8659279
+"Wilson, Samuel Isaac",Junior Class,Junior Class,TRUE,1917-1918,"Beresford, Pujehun",Pujehun,Sierra Leone,West Africa,Africa,m,TRUE,"7.3562993, -11.7210635",7.3562993,-11.7210635
+"Wolterding, Valmeir Geherd",Junior Class,Junior Class,TRUE,1911-1912,,St. Thomas,U.S. Virgin Islands,West Indies,North America,m,TRUE,"18.3380965, -64.8940946",18.3380965,-64.8940946
+"Xuma, Alfred",B Middle Class,B Middle Class,TRUE,1913-1914,"Engcobo, Timbuland",Engcobo,South Africa,Southern Africa,Africa,m,TRUE,"-31.6727543, 27.9834738",-31.6727543,27.9834738
+"Yates, Yancy",B Preparatory Class,B Preparatory Class,TRUE,1906-1907,Sapulpa,Oklahoma,USA,Indian Territory,North America,m,TRUE,"35.0077519, -97.092877",35.0077519,-97.092877
+"Ybenez, Leonerdo",Special Students,Special Students,TRUE,1904-1905,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Zamora, America",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Havana,Havana,Cuba,West Indies,North America,f,FALSE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Zamora, Eulalia",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Havana,Havana,Cuba,West Indies,North America,f,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Zamora, Martin",B Preparatory Class,B Preparatory Class,TRUE,1919-1920,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
+"Zarzuela, Jose Falu",A Middle Class,A Middle Class,TRUE,1911-1912,Santurce,Santurce,Puerto Rico,West Indies,North America,m,TRUE,"18.4481441, -66.0641969",18.4481441,-66.0641969
+"Zuniga, Jose May ",B Preparatory Class,B Preparatory Class,TRUE,1914-1915,Havana,Havana,Cuba,West Indies,North America,m,TRUE,"23.1135925, -82.3665956",23.1135925,-82.3665956
